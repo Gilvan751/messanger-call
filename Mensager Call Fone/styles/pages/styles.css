@@ -63,18 +63,19 @@ h2 {
 .rede {
     display:flex;    
     justify-content:center ;
-    margin-top:350px;
+    margin-top:580px;
 }
 
 .rede img {
     padding: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .rede1 {
     display:flex;    
     justify-content:center ;
-    margin-top:20px;
-    margin-bottom: 9px;
+    margin-top:5px;
+ 
+   
 }
 
 body {
@@ -85,4 +86,5 @@ body {
    position: absolute;
    top: 0;
    z-index: -1;
+   height: 100%;
 }
